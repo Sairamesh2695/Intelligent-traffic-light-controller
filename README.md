@@ -1,4 +1,6 @@
-#🟢 Intelligent Traffic Light Controller (I-TLC)
+🟢 Intelligent Traffic Light Controller (I-TLC)
+
+
 🧠 Project Overview
 
 I-TLC is a Verilog-based design for an Intelligent Traffic Light Controller that operates using a finite state machine (FSM). The system is developed to efficiently manage traffic flow at a four-way intersection without the need for a human traffic officer.
